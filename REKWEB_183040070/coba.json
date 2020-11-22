@@ -1,0 +1,24 @@
+[
+    {
+        "Nama": "Fikenra Nadeak",
+        "Umur": 21,
+        "NRP": "183040070",
+        "Lulus": true,
+        "Hobby": [
+            "coding",
+            "gaming",
+            "sport"
+        ]
+    },
+    {
+        "Nama": "Fikendra Nadeak",
+        "Umur": 21,
+        "NRP": "183040070",
+        "Lulus": true,
+        "Hobby": [
+            "coding",
+            "gaming",
+            "sport"
+        ]
+    }
+]
